@@ -2,7 +2,7 @@
 
 # 🌐 IT Learning Platform
 
-### A Scalable WordPress-Based Learning & Digital Resource Platform
+### A Scalable WordPress-Based IT Learning & Digital Resource Platform
 
 <p>
   <strong>WordPress</strong> •
@@ -14,8 +14,8 @@
 </p>
 
 <p>
-  <a href="https://github.com/AK-NetEng/wordpress-it-learning-platform">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository">
+  <a href="https://github.com/anupdigitalgrowth/wordpress-it-learning-platform">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
   </a>
   <a href="https://anupdigitalgrowth.github.io/Portfolio-website/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
@@ -56,19 +56,22 @@
 - [Blog Strategy](#-blog-strategy)
 - [Free Resources](#-free-resources)
 - [Career Development](#-career-development)
-- [Screenshots](#-screenshots)
+- [Project Screenshots](#-project-screenshots)
+- [Premium Pages](#-premium-pages)
 - [Project Status](#-project-status)
 - [Development Roadmap](#-development-roadmap)
 - [Future Features](#-future-features)
 - [Performance](#-performance)
 - [Security](#-security)
 - [Accessibility](#-accessibility)
+- [Testing](#-testing)
 - [Challenges](#-challenges)
 - [Key Learnings](#-key-learnings)
 - [Digital Marketing Skills Demonstrated](#-digital-marketing-skills-demonstrated)
-- [Portfolio Value](#-portfolio-value)
 - [Project Workflow](#-project-workflow)
-- [Future Improvements](#-future-improvements)
+- [Success Metrics](#-success-metrics)
+- [Portfolio Value](#-portfolio-value)
+- [Project Highlights](#-project-highlights)
 - [Author](#-author)
 - [Connect](#-connect)
 - [License](#-license)
@@ -91,44 +94,46 @@ The platform combines:
 - 🔍 Search-friendly content architecture
 - 📈 Digital marketing opportunities
 
-The project was developed as a practical portfolio project to demonstrate how **WordPress development, SEO, content marketing, user experience, information architecture and digital product strategy** can work together within one website.
+This project was created as a practical portfolio project to demonstrate the integration of:
+
+**WordPress + SEO + Content Marketing + UX + Digital Products + Digital Marketing**
 
 ---
 
 # 🎯 Project Goals
 
-The main goals of this project are:
+The main objectives of the project are:
 
 - Build a professional IT education platform
 - Create a scalable website architecture
-- Organize technical content by category and difficulty
+- Organize technical content by category
 - Provide structured learning paths
-- Publish SEO-friendly educational content
-- Offer free and premium learning resources
+- Implement SEO-friendly website structures
+- Publish educational content
+- Provide free and premium resources
 - Create a foundation for digital product sales
 - Improve content discoverability
-- Provide a clean and responsive user experience
-- Demonstrate practical WordPress skills
+- Improve user experience
+- Demonstrate practical WordPress development
 - Demonstrate SEO and digital marketing skills
-- Create a strong portfolio project for digital marketing and web development roles
 
 ---
 
 # ❗ Problem Statement
 
-IT learners often need to search across multiple websites to find:
+IT learners often need to search across multiple websites for:
 
 - Tutorials
-- Notes
+- Study notes
 - Career roadmaps
 - Interview questions
 - Practice resources
-- Learning paths
 - Technical documentation
+- Learning paths
 
-This project aims to bring these resources into a more organized structure.
+This project aims to bring these resources into a structured learning ecosystem.
 
-Instead of presenting random learning materials, the platform follows a structured approach:
+Instead of presenting disconnected resources, the platform follows a structured learning journey:
 
 ```text
 Technology
@@ -139,11 +144,13 @@ Tutorials
     ↓
 Practice
     ↓
-Notes
+Study Notes
     ↓
 Interview Preparation
     ↓
 Career Roadmap
+    ↓
+Practical Skills
 ```
 
 ---
@@ -152,38 +159,15 @@ Career Roadmap
 
 The platform is designed for:
 
-### 🎓 Students
-
-Students looking for structured IT learning resources.
-
-### 💻 Beginners
-
-Learners starting their journey in technology.
-
-### 🌐 Networking Learners
-
-Students preparing for networking fundamentals, CCNA and related skills.
-
-### 🔐 Cybersecurity Learners
-
-Learners interested in cybersecurity concepts and career paths.
-
-### 🤖 AI Learners
-
-Users interested in Artificial Intelligence and emerging technologies.
-
-### ☁️ Cloud Learners
-
-Future learners interested in AWS, Azure, GCP and cloud computing.
-
-### 🧑‍💻 Career Seekers
-
-Users looking for:
-
-- Career roadmaps
-- Interview questions
-- Skill requirements
-- Learning paths
+- 🎓 College students
+- 💻 IT beginners
+- 🌐 Networking learners
+- 🔐 Cybersecurity learners
+- 🤖 AI learners
+- ☁️ Cloud computing learners
+- 🧑‍💻 Aspiring developers
+- 📈 Career-focused learners
+- 📝 Technical interview candidates
 
 ---
 
@@ -193,7 +177,7 @@ Users looking for:
 
 The platform provides structured technical learning resources.
 
-Features:
+### Features
 
 - Beginner-to-advanced learning
 - Technology categories
@@ -207,16 +191,16 @@ Features:
 
 ## 🛒 Premium Notes & Digital Products
 
-The platform is designed to support digital educational products.
+The platform is designed to support educational digital products.
 
-Features include:
+### Features
 
 - Premium study notes
 - Digital downloads
 - Product categories
 - Product pages
 - WooCommerce integration
-- Digital product marketing
+- Educational product marketing
 - Conversion-focused product structure
 
 ---
@@ -225,7 +209,7 @@ Features include:
 
 The blog is designed to support organic search visibility.
 
-Features:
+### Features
 
 - Educational articles
 - Search-focused topics
@@ -240,7 +224,7 @@ Features:
 
 ## 🆓 Free Resources
 
-Free resources help attract users and provide value before introducing premium products.
+Free resources help attract users and provide value before introducing premium resources.
 
 Examples:
 
@@ -255,23 +239,23 @@ Examples:
 
 ## 🗺️ Career Roadmaps
 
-Career-focused resources help users understand learning sequences.
-
-Examples:
+Career-focused resources help learners understand what to study and in what order.
 
 ```text
-Beginner
-   ↓
-Fundamentals
-   ↓
-Core Skills
-   ↓
-Tools
-   ↓
+Career Goal
+     ↓
+Required Skills
+     ↓
+Learning Roadmap
+     ↓
+Tutorials
+     ↓
+Practice
+     ↓
 Projects
-   ↓
+     ↓
 Interview Preparation
-   ↓
+     ↓
 Job Preparation
 ```
 
@@ -279,12 +263,12 @@ Job Preparation
 
 ## 📝 Interview Preparation
 
-The platform can provide:
+Potential learning resources include:
 
 - Technical interview questions
-- Frequently asked questions
 - Topic-wise questions
-- Interview preparation resources
+- Frequently asked questions
+- Interview preparation guides
 - Career guidance
 
 ---
@@ -330,8 +314,6 @@ Planned / applicable integrations:
 
 # 🏗️ Website Architecture
 
-The website follows a scalable information architecture.
-
 ```text
 IT Learning Platform
 │
@@ -370,7 +352,7 @@ IT Learning Platform
 
 # 📚 Learning Architecture
 
-The learning experience follows a reusable structure.
+The platform follows a reusable learning structure.
 
 ```text
                     TECHNOLOGY
@@ -390,7 +372,7 @@ The learning experience follows a reusable structure.
                  PRACTICAL SKILLS
 ```
 
-This architecture can be replicated for every technology category.
+This architecture can be reused for every future technology category.
 
 ---
 
@@ -419,7 +401,7 @@ This architecture can be replicated for every technology category.
 
 The platform uses a topic-based content strategy.
 
-Each technology category can contain:
+Each technology category can follow:
 
 ```text
 Technology
@@ -443,13 +425,13 @@ Career Roadmap
 Premium Resources
 ```
 
-This structure helps create relationships between different types of content.
+This creates relationships between different content types and provides users with a structured learning journey.
 
 ---
 
 # 🔎 SEO Strategy
 
-SEO is considered at both the **technical and content architecture levels**.
+SEO is considered at both the technical and content architecture levels.
 
 ## On-Page SEO
 
@@ -488,13 +470,11 @@ SEO is considered at both the **technical and content architecture levels**.
 
 **Rank Math SEO**
 
-> Features marked as planned are not considered fully implemented until they are verified on the live project.
+> Features marked as planned are not considered fully implemented until verified on the live project.
 
 ---
 
 # 📊 SEO Content Funnel
-
-The content strategy can follow:
 
 ```text
 Search Query
@@ -510,13 +490,15 @@ Premium Resource
 Digital Product
 ```
 
-This creates a potential path from **organic discovery → engagement → conversion**.
+This creates a potential journey from:
+
+**Organic Discovery → Engagement → Resource → Product**
 
 ---
 
 # 📈 Digital Marketing Strategy
 
-The platform demonstrates how multiple digital marketing channels can work together.
+The platform demonstrates how different digital marketing channels can work together.
 
 ## SEO
 
@@ -532,7 +514,7 @@ Distribute educational content and resources.
 
 ## Digital Products
 
-Offer premium notes and resources.
+Offer premium notes and learning materials.
 
 ## Email Marketing
 
@@ -571,8 +553,6 @@ Measure:
                 DIGITAL PRODUCT
                       ↓
                   CONVERSION
-                      ↓
-                RETENTION / REPEAT
 ```
 
 ---
@@ -581,7 +561,7 @@ Measure:
 
 The platform includes a foundation for selling educational digital products.
 
-### Product Types
+## Product Types
 
 - IT Notes
 - Exam Notes
@@ -591,7 +571,7 @@ The platform includes a foundation for selling educational digital products.
 - Career Resources
 - Technical PDFs
 
-### Product Journey
+## Product Journey
 
 ```text
 User discovers content
@@ -604,16 +584,18 @@ Views product details
         ↓
 Checkout
         ↓
-Digital delivery
+Payment
+        ↓
+Digital Delivery
 ```
 
 ---
 
 # ✍️ Blog Strategy
 
-The blog can be used to build long-term organic visibility.
+The blog can support long-term organic visibility.
 
-### Content Categories
+## Content Categories
 
 - Tutorials
 - How-to Guides
@@ -624,7 +606,7 @@ The blog can be used to build long-term organic visibility.
 - Learning Resources
 - Study Tips
 
-### Example Content Structure
+## Content Structure
 
 ```text
 Pillar Topic
@@ -646,13 +628,13 @@ Premium Resource
 
 Free resources are designed to provide immediate value and increase content engagement.
 
-Potential resources:
+Potential resources include:
 
 - PDF notes
 - Cheat sheets
 - Command references
 - Interview questions
-- Roadmaps
+- Career roadmaps
 - Study planners
 - Learning checklists
 
@@ -661,8 +643,6 @@ Potential resources:
 # 🗺️ Career Development
 
 The platform is designed to support career-oriented learning.
-
-Example:
 
 ```text
 Career Goal
@@ -699,7 +679,7 @@ The platform focuses on:
 
 ### UX Principle
 
-> **Help the user find the right resource with minimum friction.**
+> **Help the user find the right learning resource with minimum friction.**
 
 ---
 
@@ -725,8 +705,6 @@ Important considerations include:
 
 # 📐 Website Structure
 
-The main navigation includes:
-
 ```text
 Home
 │
@@ -742,53 +720,138 @@ Home
 
 ---
 
-# 📷 Screenshots
+# 📸 Project Screenshots
 
-## 🏠 Homepage
-
-![Homepage](https://raw.githubusercontent.com/AK-NetEng/wordpress-it-learning-platform/aab9cb042b4b6ffa3d23ced9dc01619dcf43a40f/screenshots/homepage.png)
-
-[View Homepage Screenshot](https://github.com/AK-NetEng/wordpress-it-learning-platform/blob/aab9cb042b4b6ffa3d23ced9dc01619dcf43a40f/screenshots/homepage.png)
+The following screenshots showcase the major user-facing pages of the IT Learning Platform.
 
 ---
 
-## ℹ️ About Us
+## 🏠 Home Page
 
-![About Us](https://raw.githubusercontent.com/AK-NetEng/wordpress-it-learning-platform/aab9cb042b4b6ffa3d23ced9dc01619dcf43a40f/screenshots/About%20us.png)
+The homepage introduces the platform, highlights learning resources, and provides access to the major sections.
 
-[View About Us Screenshot](https://github.com/AK-NetEng/wordpress-it-learning-platform/blob/aab9cb042b4b6ffa3d23ced9dc01619dcf43a40f/screenshots/About%20us.png)
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/anupdigitalgrowth/wordpress-it-learning-platform/4e4777da5d5a48e2c063b316b594117669d75069/Screenshots/Home%20Page.png"
+    alt="IT Learning Platform Home Page"
+    width="900"
+  >
+</p>
+
+**[View Home Page Screenshot →](https://github.com/anupdigitalgrowth/wordpress-it-learning-platform/blob/4e4777da5d5a48e2c063b316b594117669d75069/Screenshots/Home%20Page.png)**
+
+---
+
+## ℹ️ About Us Page
+
+The About Us page explains the purpose, vision and educational focus of the platform.
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/anupdigitalgrowth/wordpress-it-learning-platform/8a11dff8eae1753c5d215a5080e537e72cb3ee70/Screenshots/About%20us.png"
+    alt="IT Learning Platform About Us Page"
+    width="900"
+  >
+</p>
+
+**[View About Us Screenshot →](https://github.com/anupdigitalgrowth/wordpress-it-learning-platform/blob/8a11dff8eae1753c5d215a5080e537e72cb3ee70/Screenshots/About%20us.png)**
 
 ---
 
 ## 📚 Learn Page
 
-![Learn Page](https://raw.githubusercontent.com/AK-NetEng/wordpress-it-learning-platform/a4380cb99071ca336f0ca4d8e25917a10cc5af0f/screenshots/Learn%20page.png)
+The Learn page organizes technical learning resources into structured technology categories.
 
-[View Learn Page Screenshot](https://github.com/AK-NetEng/wordpress-it-learning-platform/blob/a4380cb99071ca336f0ca4d8e25917a10cc5af0f/screenshots/Learn%20page.png)
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/anupdigitalgrowth/wordpress-it-learning-platform/8a11dff8eae1753c5d215a5080e537e72cb3ee70/Screenshots/learn%20page%20-.png"
+    alt="IT Learning Platform Learn Page"
+    width="900"
+  >
+</p>
 
----
-
-## 🌐 Networking Page
-
-![Networking Page](https://raw.githubusercontent.com/AK-NetEng/wordpress-it-learning-platform/d562165b00cb298bdf1df2cd6ddb649c90da1924/screenshots/Networking%20page-.png)
-
-[View Networking Screenshot](https://github.com/AK-NetEng/wordpress-it-learning-platform/blob/d562165b00cb298bdf1df2cd6ddb649c90da1924/screenshots/Networking%20page-.png)
-
----
-
-## 📄 Premium Notes
-
-![Premium Notes](https://raw.githubusercontent.com/AK-NetEng/wordpress-it-learning-platform/d562165b00cb298bdf1df2cd6ddb649c90da1924/screenshots/Premium%20Notes%20Page.png)
-
-[View Premium Notes Screenshot](https://github.com/AK-NetEng/wordpress-it-learning-platform/blob/d562165b00cb298bdf1df2cd6ddb649c90da1924/screenshots/Premium%20Notes%20Page.png)
+**[View Learn Page Screenshot →](https://github.com/anupdigitalgrowth/wordpress-it-learning-platform/blob/8a11dff8eae1753c5d215a5080e537e72cb3ee70/Screenshots/learn%20page%20-.png)**
 
 ---
 
-## 📝 Blog
+## 📄 Premium Notes Page
 
-![Blog](https://raw.githubusercontent.com/AK-NetEng/wordpress-it-learning-platform/4e86ef9acf20e9df45a9948c2552592ad3189def/screenshots/Blogs%20page.png)
+The Premium Notes page is designed to showcase premium educational resources and digital study materials.
 
-[View Blog Screenshot](https://github.com/AK-NetEng/wordpress-it-learning-platform/blob/4e86ef9acf20e9df45a9948c2552592ad3189def/screenshots/Blogs%20page.png)
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/anupdigitalgrowth/wordpress-it-learning-platform/8a11dff8eae1753c5d215a5080e537e72cb3ee70/Screenshots/Premimu%20Notes%20-.png"
+    alt="IT Learning Platform Premium Notes Page"
+    width="900"
+  >
+</p>
+
+**[View Premium Notes Screenshot →](https://github.com/anupdigitalgrowth/wordpress-it-learning-platform/blob/8a11dff8eae1753c5d215a5080e537e72cb3ee70/Screenshots/Premimu%20Notes%20-.png)**
+
+---
+
+## 📩 Contact Us Page
+
+The Contact Us page provides users with a simple way to connect with the platform.
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/anupdigitalgrowth/wordpress-it-learning-platform/9ae5edb1ab6a7df0675d1d44f27cf9b9bce17156/Screenshots/Contact%20-.png"
+    alt="IT Learning Platform Contact Us Page"
+    width="900"
+  >
+</p>
+
+**[View Contact Page Screenshot →](https://github.com/anupdigitalgrowth/wordpress-it-learning-platform/blob/9ae5edb1ab6a7df0675d1d44f27cf9b9bce17156/Screenshots/Contact%20-.png)**
+
+---
+
+# 📚 Premium Pages
+
+The premium section is designed to support the platform's digital-product ecosystem.
+
+### Premium Content Can Include
+
+- 📄 Premium Notes
+- 🛒 Product Pages
+- 💳 Checkout
+- 📥 Digital Downloads
+- 📚 Subject-wise Notes
+- 🎓 Exam Preparation Resources
+- 💻 IT Certification Notes
+- 📝 Interview Preparation Materials
+
+### Premium Content Flow
+
+```text
+Premium Notes
+      ↓
+Browse Products
+      ↓
+Select Resource
+      ↓
+Product Details
+      ↓
+Checkout
+      ↓
+Payment
+      ↓
+Digital Delivery
+```
+
+> Additional premium-page screenshots can be added here as new pages are completed.
+
+---
+
+# 🖼️ Screenshot Gallery
+
+| Page | Purpose |
+|---|---|
+| 🏠 Home Page | Platform introduction and resource discovery |
+| ℹ️ About Us | Platform information and purpose |
+| 📚 Learn Page | Technical learning categories |
+| 📄 Premium Notes | Premium educational resources |
+| 📩 Contact Us | User enquiries and communication |
 
 ---
 
@@ -921,7 +984,7 @@ Potential support for multiple languages to make technical education more access
 
 ## 🤖 AI Learning Assistant
 
-Potential future feature for:
+Potential future features:
 
 - Topic explanations
 - Personalized learning
@@ -935,7 +998,7 @@ Potential future feature for:
 
 Performance is an important part of the platform.
 
-Current / planned optimization areas:
+### Optimization Areas
 
 - Image optimization
 - Lazy loading
@@ -946,7 +1009,7 @@ Current / planned optimization areas:
 - Core Web Vitals
 - Mobile performance
 
-### Tools / Technologies
+### Tools
 
 - LiteSpeed Cache
 - Image optimization
@@ -1021,27 +1084,25 @@ The website should be tested across:
 
 # ⚠️ Challenges
 
-Some of the key challenges involved in this project include:
-
-### 1. Designing a Scalable Content Architecture
+## 1. Scalable Content Architecture
 
 The platform needs to support multiple technologies without creating a confusing navigation structure.
 
-### 2. Connecting Learning Content
+## 2. Connecting Learning Content
 
 Tutorials, notes, blogs, interview questions and roadmaps need to be connected logically.
 
-### 3. Balancing Free & Premium Content
+## 3. Balancing Free & Premium Content
 
-The platform needs to provide enough free value while maintaining a clear premium product structure.
+The platform needs to provide useful free content while maintaining a clear premium-resource structure.
 
-### 4. SEO-Friendly Architecture
+## 4. SEO-Friendly Architecture
 
-The website needs to remain easy for both users and search engines to understand as content grows.
+The website needs to remain understandable to both users and search engines as content grows.
 
-### 5. Maintaining Performance
+## 5. Website Performance
 
-Adding plugins, products and content can affect performance, so optimization needs to be considered throughout development.
+Additional plugins, products and content can affect performance, so optimization needs to be considered throughout development.
 
 ---
 
@@ -1068,9 +1129,9 @@ This project helped develop practical experience in:
 
 - Content architecture
 - Keyword research
+- Search intent
 - On-page optimization
 - Internal linking
-- Search intent
 
 ### Digital Marketing
 
@@ -1096,8 +1157,6 @@ This project helped develop practical experience in:
 
 # 💼 Digital Marketing Skills Demonstrated
 
-This project demonstrates practical application of:
-
 | Skill | Application |
 |---|---|
 | 🔎 SEO | Search-friendly architecture and content planning |
@@ -1115,7 +1174,7 @@ This project demonstrates practical application of:
 
 # 🔄 Project Workflow
 
-The project follows this development workflow:
+The project follows this workflow:
 
 ```text
                  PROJECT RESEARCH
@@ -1149,7 +1208,7 @@ The project follows this development workflow:
 
 Once the platform is fully live, potential KPIs can include:
 
-### SEO
+## SEO
 
 - Organic clicks
 - Organic impressions
@@ -1158,7 +1217,7 @@ Once the platform is fully live, potential KPIs can include:
 - Indexed pages
 - Ranking keywords
 
-### Website
+## Website
 
 - Users
 - Sessions
@@ -1166,14 +1225,14 @@ Once the platform is fully live, potential KPIs can include:
 - Landing page performance
 - Returning visitors
 
-### Content
+## Content
 
 - Blog traffic
 - Tutorial engagement
 - Resource downloads
 - Content-assisted conversions
 
-### Digital Products
+## Digital Products
 
 - Product views
 - Add-to-cart rate
@@ -1187,7 +1246,7 @@ Once the platform is fully live, potential KPIs can include:
 
 # 🎯 Portfolio Value
 
-This project demonstrates that I can combine:
+This project demonstrates the ability to combine:
 
 ```text
 WordPress
@@ -1207,32 +1266,13 @@ Analytics
 
 into one practical project.
 
-Rather than demonstrating only a visual website, the project demonstrates thinking across:
+The project demonstrates thinking across:
 
 **Users + Search Engines + Content + Business Goals**
 
 ---
 
-# 🏆 Why This Project Matters
-
-The main value of this project is the combination of technical and marketing skills.
-
-A typical website project may focus primarily on design and development.
-
-This project additionally considers:
-
-- How users discover content
-- How content is organized
-- How search engines understand the website
-- How users move through learning resources
-- How free resources can support growth
-- How premium resources can be positioned
-- How analytics can measure performance
-- How the platform can scale over time
-
----
-
-# 📌 Project Highlights
+# 🏆 Project Highlights
 
 ### Platform
 
@@ -1264,7 +1304,7 @@ This project additionally considers:
 
 ### GitHub Repository
 
-https://github.com/AK-NetEng/wordpress-it-learning-platform
+https://github.com/anupdigitalgrowth/wordpress-it-learning-platform
 
 ### Portfolio
 
